@@ -37,3 +37,10 @@ v1.0.6
 
 
 ## <a id="设置中文"></a>💽 〢你可以下载编译好的版本[这里] (https://discord.gg/jHzsghFb68)
+\
+\
+
+## ENG 
+
+## <a id="download"></a>💽 〢 Download finished build [here](https://discord.gg/8Z7xejJBBu)
+
