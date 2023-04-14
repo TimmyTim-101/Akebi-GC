@@ -3,8 +3,8 @@ Genshin原神 Akebi-GC 免费辅助 玩家
 
 # 资源介绍
 
-https://i.ytimg.com/vi/aA2MHLlhQ4E/maxresdefault.jpg
-https://www.tudoumc.com/zb_users/upload/2022/12/202212071670392889636793.jpg
+![image](https://user-images.githubusercontent.com/129268331/232127978-7f11f38c-dd0a-43a8-b75b-b774e3bc3729.png)
+
 
 更新记录3.5正式版
 v1.0.6
